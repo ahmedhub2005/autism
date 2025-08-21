@@ -44,18 +44,9 @@ Missing and unknown values were handled by replacing them with **0/1 encoding**.
 
 ---
 
-## 📊 Visualizations
 
-### ROC Curves
-![ROC Curve](images/roc_curve.png)
 
-### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
 
-### Loss & Accuracy Curves
-![Training Curves](images/training_curves.png)
-
----
 
 ## 🚀 How to Run
 
