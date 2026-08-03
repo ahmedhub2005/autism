@@ -1,6 +1,6 @@
-# 🧠 Autism Spectrum Disorder (ASD) Prediction
+#  Autism Spectrum Disorder (ASD) Prediction
 
-## 📌 Project Description
+##  Project Description
 This project aims to predict the likelihood of Autism Spectrum Disorder (ASD) in individuals using machine learning and deep learning models.  
 We explored **traditional ML models** (Random Forest, Logistic Regression, XGBoost, SVC, Gradient Boosting) and a **Neural Network** with multiple layers.  
 
@@ -8,7 +8,7 @@ The goal is to assist early detection of ASD traits using structured questionnai
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - Source: [Autism Screening Dataset](https://www.kaggle.com/competitions/autismdiagnosis/data)  
 - Records: ~700 samples  
 - Features:  
@@ -20,7 +20,7 @@ Missing and unknown values were handled by replacing them with **0/1 encoding**.
 
 ---
 
-## ⚙️ Models Used
+##  Models Used
 - Logistic Regression  
 - Random Forest Classifier  
 - Gradient Boosting Classifier  
@@ -30,7 +30,7 @@ Missing and unknown values were handled by replacing them with **0/1 encoding**.
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 | Model                  | Accuracy | Precision | Recall | F1-Score |
 |-------------------------|----------|-----------|--------|----------|
 | Logistic Regression     | 0.87     | 0.85      | 0.83   | 0.84     |
