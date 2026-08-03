@@ -48,7 +48,7 @@ Missing and unknown values were handled by replacing them with **0/1 encoding**.
 
 
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # Clone repo
